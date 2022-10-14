@@ -1,0 +1,5 @@
+node_modules
+/dist/controllers/
+/dist/models
+/dist/routes
+/dist/app.js
